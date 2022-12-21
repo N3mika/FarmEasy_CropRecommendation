@@ -46,7 +46,7 @@ requirements.txt contains all requirements needed to run this application locall
 Clone the project
 
 ```bash
-  git clone https://github.com/vineettanwar/farmeasy_crop.git
+  git clone https://github.com/N3mika/FarmEasy_CropRecommendation.git
 ```
 
 Go to the project directory
